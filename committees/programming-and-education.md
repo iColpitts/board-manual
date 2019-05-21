@@ -5,7 +5,7 @@ This committee is governed by the joint [Terms of Reference](/committees/terms-o
 ## Current Members
 
 * **Chair:** Izzie Colpitts-Campbell
-* **Members:** Yifat Shaik, Jennie Robinson Faber, Jen Costa, Kaitlin Tremblay, Bee Goodwin, Mic Fok, Kae Bagg, Rose Goodwin
+* **Members:** Yifat Shaik, Jennie Robinson Faber, Jen Costa, Kaitlin Tremblay, Mic Fok, Kae Bagg, Rose Goodwin
 
 
 ## Responsibilities
@@ -44,7 +44,7 @@ The Social Squad plans parties, social events, game nights, outings and field tr
 
 ### Volunteer Subcommittee
 
-**Chair:** Alicia Francis, volunteer coordinator
+**Chair:** Vacant
 
 * Determine mentor, volunteer, and staff needs for all events held at our
 headquarters.
