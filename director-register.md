@@ -8,7 +8,7 @@
 | Jayd Matyas | Secretary | Dec 12, 2018 | |
 | Yifat Shaik |  | Jan 19, 2017 | |
 | Meagan Byrne | Treasurer | Jan 14, 2017 | |
-| Gabriela Aveiro-Ojeda | Vice chair, vice president | Feb 28, 2016 | |
+| Santo Aveiro-Ojeda | Vice chair, vice president | Feb 28, 2016 | |
 | Soha Kareem | | Nov 27, 2014 | |
 | Izzie Colpitts-Campbell | Chair, president | Nov 27, 2014 | |
 | Cecily Carver | | Aug 30, 2012 | Jan 12, 2019 |
