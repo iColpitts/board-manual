@@ -6,7 +6,7 @@ Please also refer to the [Conflict Resolution Policy](https://manual.dmg.to/poli
 
 ## Current Members
 
-* **Co-chairs:** Izzie Colpitts-Campbell & Gabriela Aveiro-Ojeda
+* **Co-chairs:** Izzie Colpitts-Campbell & Santo Aveiro-Ojeda
 * **Members:** Jen Costa, Kaitlin Tremblay
 * **Ex-officio:** Jennie Robinson Faber
 
@@ -20,7 +20,8 @@ Please also refer to the [Conflict Resolution Policy](https://manual.dmg.to/poli
 ## Procedures
 
 * The committee should meet at least two times per year, but may meet as frequently as needed, on an ad hoc basis in order to respond to reports
-* One-half the voting members constitutes a quorum; chair or co-chair must be inattendance.
+* One-half the voting members constitutes a quorum; chair or co-chair must be in
+attendance.
 * Minutes should be posted to the committee’s Basecamp project in a timely manner.
 
 Additionally, CR committee procedures are driven by the following documents:
