@@ -3,7 +3,7 @@
 | Name | Office | Date of Election | Date of Resignation |
 | :--- | :--- | :--- | :--- |
 | Natalie Zina Walschots | | Jan 12, 2019 | |
-| Bee Goodwin | | Jan 12, 2019 | |
+| Rose Goodwin | | Jan 12, 2019 | |
 | Kaitlin Tremblay | | Jan 12, 2019 | |
 | Jayd Matyas | Secretary | Dec 12, 2018 | |
 | Yifat Shaik |  | Jan 19, 2017 | |
